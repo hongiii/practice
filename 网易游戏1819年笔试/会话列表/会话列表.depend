@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1564209875 source:c:\users\wly1984\desktop\code practice\网易游戏1819年笔试\会话列表\main.cpp
-	<iostream>
-	<unordered_map>
-	<cstdlib>
-	<cstdio>
-	<cstring>
-

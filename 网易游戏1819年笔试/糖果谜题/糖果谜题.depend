@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1564146762 source:c:\users\wly1984\desktop\code practice\网易游戏1819年笔试\糖果谜题\main.cpp
-	<iostream>
-	<cstdlib>
-	<cstdio>
-	<cstring>
-	<algorithm>
-
