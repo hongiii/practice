@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1564463281 source:c:\users\wly1984\desktop\剑指\机器人的运动范围\main.cpp
-	<iostream>
-	<cstdlib>
-	<cstdio>
-	<cstring>
-	<algorithm>
-

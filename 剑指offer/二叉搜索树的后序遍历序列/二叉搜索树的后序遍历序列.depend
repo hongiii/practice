@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1564659713 source:c:\users\wly1984\desktop\剑指\二叉搜索树的后序遍历序列\main.cpp
-	<iostream>
-	<cstdio>
-	<cstring>
-	<cstdlib>
-	<vector>
-

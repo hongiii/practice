@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1564997996 source:c:\users\wly1984\desktop\剑指\把字符串转换成整数\main.cpp
-	<iostream>
-	<cstdio>
-	<cstring>
-	<vector>
-	<cstdlib>
-	<algorithm>
-

@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1564829341 source:c:\users\wly1984\desktop\test\和为s的连续正数序列\main.cpp
-	<iostream>
-	<cstdio>
-	<cstring>
-	<cmath>
-	<vector>
-	<algorithm>
-

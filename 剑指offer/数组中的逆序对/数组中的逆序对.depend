@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1564746970 source:c:\users\wly1984\desktop\剑指\数组中的逆序对\main.cpp
-	<iostream>
-	<vector>
-	<cstdio>
-	<cstdlib>
-	<cstring>
-

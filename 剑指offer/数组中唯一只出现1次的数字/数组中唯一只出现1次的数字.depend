@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1564814479 source:c:\users\wly1984\desktop\剑指\数组中唯一只出现1次的数字\main.cpp
-	<iostream>
-	<cstdio>
-	<vector>
-	<cstdlib>
-	<algorithm>
-
