@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564846414 source:c:\users\wly1984\desktop\剑指\滑动窗口的最大值\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<vector>
+	<deque>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1564718656 source:c:\users\wly1984\desktop\剑指\整数中1出现的次数（从1到n整数中1出现的次数）\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<algorithm>
+
