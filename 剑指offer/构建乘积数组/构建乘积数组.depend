@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1564916834 source:c:\users\wly1984\desktop\剑指\构建乘积数组\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+

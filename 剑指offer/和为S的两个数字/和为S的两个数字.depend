@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1564825862 source:c:\users\wly1984\desktop\test\和为s的两个数字\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+

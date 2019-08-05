@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1564489367 source:c:\users\wly1984\desktop\剑指\删除链表中重复的节点\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+

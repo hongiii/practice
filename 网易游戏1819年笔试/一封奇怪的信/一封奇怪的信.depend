@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564141084 source:c:\users\wly1984\desktop\code practice\网易游戏1819年笔试\一封奇怪的信\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<map>
+
