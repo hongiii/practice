@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1565014792 source:c:\users\wly1984\desktop\剑指\把数字翻译成字符串\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<algorithm>
+
